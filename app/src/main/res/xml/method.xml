@@ -3,7 +3,7 @@
     android:settingsActivity="uz.azoff.keyboard.SettingsActivity"
     android:supportsSwitchingToNextInputMethod="true">
     <subtype
-        android:imeSubtypeLanguage="uz"
+        android:languageTag="uz"
         android:imeSubtypeLocale="uz"
         android:imeSubtypeMode="keyboard"
         android:label="@string/subtype_uz" />
